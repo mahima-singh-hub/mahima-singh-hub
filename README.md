@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahima-singh-hub
 - 👀 I’m interested in learning in ins and outs of Data science
-- 🌱 I’m currently learning R, Python and Excel
+- 🌱 I’m currently learning R, Python and SQL
 - 💞️ I’m looking to collaborate on project to further enhance my skills
 - 📫 How to reach me: smahima174@gmail.com
   
